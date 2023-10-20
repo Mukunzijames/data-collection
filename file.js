@@ -28,3 +28,8 @@ for (const key in object) {
     const element = array[index];
     
    }
+   if (condition) {
+    
+   } else {
+    
+   }
