@@ -10,3 +10,11 @@ if (condition) {
 } else {
     
 }
+array.forEach(element => {
+    
+});
+if (condition) {
+    
+} else {
+    
+}
