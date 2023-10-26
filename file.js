@@ -1,5 +1,0 @@
-// comparing string
-
-
-
-"green"=="Green" 
