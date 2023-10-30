@@ -15,3 +15,9 @@ if (checkBalance) {
 } else {
   console.log("Thank you. Have a nice day!");
 }
+for (const key in object) {
+  if (Object.hasOwnProperty.call(object, key)) {
+    const element = object[key];
+    
+  }
+}
