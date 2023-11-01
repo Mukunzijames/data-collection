@@ -8,3 +8,10 @@
 1!==false
 
 true!==1
+array.forEach(element => {
+    
+});
+for (let index = 0; index < array.length; index++) {
+    const element = array[index];
+    
+}
