@@ -12,4 +12,12 @@ if(musicians<=0){
     console.log('quartet')
 }else {
     console.log('this is a large group')
+
+}
+array.forEach(element => {
+    
+});
+for (let index = 0; index < array.length; index++) {
+    const element = array[index];
+    
 }
