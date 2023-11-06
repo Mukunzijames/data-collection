@@ -23,3 +23,7 @@ if (solved) {
 } else {
   console.log("The mystery remains unsolved.");
 }
+for (let index = 0; index < array.length; index++) {
+  const element = array[index];
+  
+}
